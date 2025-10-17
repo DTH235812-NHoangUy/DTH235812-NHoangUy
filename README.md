@@ -1,10 +1,3 @@
-<!-- Typing animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=550&lines=👋+Hi%2C+I'm+Nguyen+Hoang+Uy;🎓+Third-year+student+at+An+Giang+University;💻+Passionate+about+learning+and+coding;🚀+Always+improving+and+exploring+new+technologies!" alt="Typing SVG" />
-</p>
-
----
-
 # 🧑‍💻 About Me
 
 🎓 I'm **Nguyen Hoang Uy**, a <span style="color:#2196F3;">third-year student</span> at  
