@@ -54,17 +54,19 @@
 
 ---
 
+## 📞 Contact Me
+
+📱 **Phone:** +84 949 353 863  
+📧 **Personal Gmail:** [hoanguyzz1305200@gmail.com](mailto:hoanguyzz1305200@gmail.com)  
+📧 **Student Email:** [uy_dth235812@student.agu.edu.vn](mailto:uy_dth235812@student.agu.edu.vn)
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:hoanguyzz13052005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail%20(Personal)-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Gmail"/>
-  </a>
-  <a href="mailto:nguyenhoanguy235812@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail%20(Alt)-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Alt Gmail"/>
-  </a>
-  <a href="mailto:uy_dth235812@student.agu.edu.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Student%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Student Email"/>
+  <a href="https://www.linkedin.com/in/nguyen-hoang-uy-22410038b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/hoanguy1305dev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
