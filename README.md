@@ -1,16 +1,16 @@
-# 👋 Xin chào, mình là Nguyễn Hoàng Uy
+# 👋 Hi, I'm Nguyen Hoang Uy
 
-🎓 Mình là **sinh viên năm 3** của  
-**Trường Đại học An Giang – Đại học Quốc gia TP. Hồ Chí Minh**.  
+🎓 I'm a **third-year student** at  
+**An Giang University – Vietnam National University, Ho Chi Minh City**.  
 
-💻 Mình sử dụng GitHub để **lưu trữ dự án**, **viết code**, và **hợp tác cùng mọi người**.  
-🚀 Mình luôn là người **chăm chỉ học hỏi**, **không ngừng cải thiện bản thân** và **khám phá công nghệ mới**.
+💻 I use GitHub to **store my projects**, **write code**, and **collaborate with others**.  
+🚀 I'm a **motivated learner** who always strives to **improve** and **explore new technologies**.
 
 ---
 
-## ⚙️ Kỹ năng
+## ⚙️ Tech Stack
 
-### 🧠 Ngôn ngữ lập trình
+### 🧠 Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,15 +21,15 @@
 ### 🧩 Framework & Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Cơ sở dữ liệu
+### 🗄️ Database
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🛠️ Công cụ khác
+### 🛠️ Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 Thống kê GitHub
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DTH235812-NHoangUy&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔥 Chuỗi đóng góp (Contribution Streak)
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=DTH235812-NHoangUy&theme=radical&hide_border=false" alt="GitHub Streak" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🏆 Thành tích GitHub
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DTH235812-NHoangUy&theme=radical&no-frame=true&margin-w=15&row=1&column=7" alt="GitHub Trophies" />
@@ -54,14 +54,17 @@
 
 ---
 
-## 🌐 Kết nối với mình
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="mailto:hoanguyzz13052005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail%20(Personal)-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Gmail"/>
+  </a>
   <a href="mailto:nguyenhoanguy235812@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail%20(Cá%20nhân)-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Personal Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail%20(Alt)-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Alt Gmail"/>
   </a>
   <a href="mailto:uy_dth235812@student.agu.edu.vn" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail%20(Sinh%20viên)-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Student Email"/>
+    <img src="https://img.shields.io/badge/Student%20Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Student Email"/>
   </a>
   <a href="https://www.facebook.com/hoanguy1305dev" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -79,7 +82,7 @@
 
 ---
 
-## 👀 Lượt truy cập hồ sơ
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DTH235812-NHoangUy&style=for-the-badge&color=brightgreen" alt="Profile views"/>
@@ -87,5 +90,4 @@
 
 ---
 
-⭐ *“Không ngừng học hỏi – Không ngừng phát triển.”*
-
+⭐ *“Keep learning, keep growing.”*
