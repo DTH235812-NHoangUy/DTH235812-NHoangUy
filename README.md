@@ -57,7 +57,7 @@
 ## 📞 Contact Me
 
 📱 **Phone:** +84 949 353 863  
-📧 **Personal Gmail:** [hoanguyzz1305200@gmail.com](mailto:hoanguyzz1305200@gmail.com)  
+📧 **Personal Gmail:** [hoanguyzz13052005@gmail.com](mailto:hoanguyzz13052005@gmail.com)  
 📧 **Student Email:** [uy_dth235812@student.agu.edu.vn](mailto:uy_dth235812@student.agu.edu.vn)
 
 ---
